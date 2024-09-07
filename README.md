@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saanvichandra
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Machine Learning
 - 🌱 I’m currently learning Deep Learning, Web Development, and Python
 - 😄 Pronouns: She/Her
 
